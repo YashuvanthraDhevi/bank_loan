@@ -17,3 +17,5 @@ Graph suggestion: Create histograms, bar charts, or box plots to visualize the d
 
 E. Identify Top Correlations for Different Scenarios: Segment the dataset based on different scenarios (e.g., clients with payment difficulties and all other cases) and identify the top correlations for each segmented data using Excel functions.
 Graph suggestion: Create correlation matrices or heatmaps to visualize the correlations between variables within each segment. Highlight the top correlated variables for each scenario using different colors or shading.
+
+Datasets: https://drive.google.com/file/d/1AdYsBqmUfLCnDVQOPFNbnCdrL1iwFog0/view?usp=sharing
